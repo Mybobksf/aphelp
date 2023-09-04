@@ -36,7 +36,6 @@ const Navbar = () => {
         <div className='float-right sm:pr-20'>
           <Dropdown />
           <a className='text-[#222] leading-sm inline-block align-middle font-black pt-[0.36rem] pr-5  hover:text-[#505050]' href="../about">About</a>
-          <a className='text-[#222] leading-sm inline-block align-middle font-black pt-[0.36rem] pr-5  hover:text-[#505050]' href="../team">Team</a>
           <button id="signin" className='text-[#3b82f6] mt-1 shadow-[0_1px_4px_rgba(0,0,0,0.30)] rounded-md p-2 leading-sm inline-block align-middle font-black pt-[0.36rem]  hover:text-slate-300'>        <Link href="../login">Login / Sign Up</Link></button>
           <button id="signout" className='text-[#3b82f6] mt-1 shadow-[0_1px_4px_rgba(0,0,0,0.30)] rounded-md p-2 leading-sm align-middle font-black pt-[0.36rem] hidden  hover:text-slate-300' onClick={signOut}>Sign Out</button>
 
