@@ -24,7 +24,6 @@ const about = () => {
         <div className='mt-10 mx-auto'>
             <div className='w-[16rem] sm:w-[70rem] mx-auto mb-[2rem]'>
                 <h1 className='text-[12px] sm:text-[72px] text-[#3b82f6]'>Information about AP courses provided to everyone.</h1>
-                <h3 className='text-[12px] sm:text-[20px] text-[#222]  sm:w-[44rem] mx-auto'>Rate My AP’s is a project made by Koushik Chandolu, Prajwal Dacharla, Anil Sarvabatla, Shikhar Sisodia, Karthik Sabhanayakam, Sheil Mody, and Aadi Patwardhan. We are current high schoolers from Dublin High, Dougherty Valley, and BASIS Independent Silicon Valley. </h3>
             </div>
             <div className='w-[16rem] sm:w-[65rem] mx-auto pb-[5rem]'>
                 <div className='inline-block align-middle mx-auto'>
